@@ -16,3 +16,5 @@ console.log(a,b)
 const c = 5
 //Ao redefinir o valor de uma const, acusa erro "Assignment to constant variable." -> c = 50
 console.log(c)
+
+//Dois jeitos de criar variáveis: var e let. Preferir o uso da declaração let

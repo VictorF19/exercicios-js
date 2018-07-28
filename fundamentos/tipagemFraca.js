@@ -7,4 +7,4 @@ qualquer = 3.1516
 console.log(qualquer)
 console.log(typeof qualquer)
 
-//Evitar nomes genéricos de variáveis
+//Evitar nomes genericos de variaveis
